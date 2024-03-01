@@ -138,3 +138,8 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+#contactForm {
+    width: 100%;
+    height: 500px; /* Altura inicial, se ajustará dinámicamente */
+}
+
